@@ -1,0 +1,10 @@
+#useless dirs
+
+**/__Previews
+**/History
+**/* Logs *
+**/Project Outputs *
+
+#useless files
+
+*.DSNlck
