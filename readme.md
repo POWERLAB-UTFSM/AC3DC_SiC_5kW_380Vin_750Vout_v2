@@ -57,7 +57,7 @@ Para descargar este proyecto al computador local:
 1. Ir al directorio principal donde se quiere dejar el repositorio local, y clonar desde el repositorio remoto `https://remote.git`:<br />
 `git clone https://remote.git` <br />
 En este caso: <br />
-`git clone https://github.com/POWERLAB-UTFSM/DCDC_SiC_600W_750Vdcin_v1p1.git`
+`git clone https://github.com/POWERLAB-UTFSM/AC3DC_SiC_5kW_380Vin_750Vout_v2.git`
 
 ### Usar Git en Altium
 1. **Save:** Una vez que los cambios se hayan efectuado, guarda el archivo o proyecto.
