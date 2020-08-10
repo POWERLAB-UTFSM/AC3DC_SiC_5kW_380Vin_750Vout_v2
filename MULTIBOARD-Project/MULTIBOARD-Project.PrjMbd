@@ -69,7 +69,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=e968269f-9199-42fc-a150-ab599cd80321
+DocumentUniqueId=65ddc099-e543-43b1-9f41-cb4d7e3622ba
 
 [Document3]
 DocumentPath=..\SUBBOARD-boost_filter_3p_LCL\SUBBOARD-boost_filter_3p_LCL.PrjPcb
@@ -155,6 +155,31 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document8]
+DocumentPath=Hito1.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Free Documents\BOM\Bill of Materials-MULTIBOARD-Project.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for MULTIBOARD-Project\BOM\Bill of Materials-MULTIBOARD-Project.xlsx
+DItemRevisionGUID=
 
 [OutputGroup1]
 Name=Netlist Outputs
