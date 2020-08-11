@@ -1,5 +1,13 @@
 Record=DiagramHierarchy|SourceDocument=MULTIBOARD-Project.MbsDoc|Kind=Multi-board Schematic Module|Designator=2|Source=..\SUBBOARD-boost_filter_3p_LCL\SUBBOARD-boost_filter_3p_LCL.PrjPcb
 Record=SubProject|SourceDocument=MULTIBOARD-Project.MbsDoc|ProjectPath=..\SUBBOARD-boost_filter_3p_LCL\SUBBOARD-boost_filter_3p_LCL.PrjPcb
+Record=DiagramHierarchy|SourceDocument=MULTIBOARD-Project.MbsDoc|Kind=Multi-board Schematic Module|Designator=10|Source=..\SUBBOARD-current_measurement\SUBBOARD-current_measurement.PrjPcb
+Record=SubProject|SourceDocument=MULTIBOARD-Project.MbsDoc|ProjectPath=..\SUBBOARD-current_measurement\SUBBOARD-current_measurement.PrjPcb
+Record=DiagramHierarchy|SourceDocument=MULTIBOARD-Project.MbsDoc|Kind=Multi-board Schematic Module|Designator=9|Source=..\SUBBOARD-current_measurement\SUBBOARD-current_measurement.PrjPcb
+Record=SubProject|SourceDocument=MULTIBOARD-Project.MbsDoc|ProjectPath=..\SUBBOARD-current_measurement\SUBBOARD-current_measurement.PrjPcb
+Record=DiagramHierarchy|SourceDocument=MULTIBOARD-Project.MbsDoc|Kind=Multi-board Schematic Module|Designator=6|Source=..\SUBBOARD-current_measurement\SUBBOARD-current_measurement.PrjPcb
+Record=SubProject|SourceDocument=MULTIBOARD-Project.MbsDoc|ProjectPath=..\SUBBOARD-current_measurement\SUBBOARD-current_measurement.PrjPcb
+Record=DiagramHierarchy|SourceDocument=MULTIBOARD-Project.MbsDoc|Kind=Multi-board Schematic Module|Designator=8|Source=..\SUBBOARD-EMC_input\SUBBOARD-EMC_input.PrjPcb
+Record=SubProject|SourceDocument=MULTIBOARD-Project.MbsDoc|ProjectPath=..\SUBBOARD-EMC_input\SUBBOARD-EMC_input.PrjPcb
 Record=DiagramHierarchy|SourceDocument=MULTIBOARD-Project.MbsDoc|Kind=Multi-board Schematic Module|Designator=5|Source=..\SUBBOARD-gate_driver\SUBBOARD-gate_driver.PrjPcb
 Record=SubProject|SourceDocument=MULTIBOARD-Project.MbsDoc|ProjectPath=..\SUBBOARD-gate_driver\SUBBOARD-gate_driver.PrjPcb
 Record=DiagramHierarchy|SourceDocument=MULTIBOARD-Project.MbsDoc|Kind=Multi-board Schematic Module|Designator=4|Source=..\SUBBOARD-gate_driver\SUBBOARD-gate_driver.PrjPcb
@@ -8,3 +16,5 @@ Record=DiagramHierarchy|SourceDocument=MULTIBOARD-Project.MbsDoc|Kind=Multi-boar
 Record=SubProject|SourceDocument=MULTIBOARD-Project.MbsDoc|ProjectPath=..\SUBBOARD-gate_driver\SUBBOARD-gate_driver.PrjPcb
 Record=DiagramHierarchy|SourceDocument=MULTIBOARD-Project.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=..\SUBBOARD-phase_leg_3p_2L\SUBBOARD-phase_leg_3p_2L.PrjPcb
 Record=SubProject|SourceDocument=MULTIBOARD-Project.MbsDoc|ProjectPath=..\SUBBOARD-phase_leg_3p_2L\SUBBOARD-phase_leg_3p_2L.PrjPcb
+Record=DiagramHierarchy|SourceDocument=MULTIBOARD-Project.MbsDoc|Kind=Multi-board Schematic Module|Designator=7|Source=..\SUBBOARD-voltage_sensors\SUBBOARD-voltage_sensors.PrjPcb
+Record=SubProject|SourceDocument=MULTIBOARD-Project.MbsDoc|ProjectPath=..\SUBBOARD-voltage_sensors\SUBBOARD-voltage_sensors.PrjPcb
