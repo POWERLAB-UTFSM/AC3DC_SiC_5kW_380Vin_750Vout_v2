@@ -105,6 +105,114 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for SUBBOARD-boost_filter_3p_LCL\Pick Place\Pick Place for SUBBOARD-boost_filter_3p_LCL.txt
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for SUBBOARD-boost_filter_3p_LCL\NC Drill\SUBBOARD-boost_filter_3p_LCL.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for SUBBOARD-boost_filter_3p_LCL\Gerber\SUBBOARD-boost_filter_3p_LCL.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for SUBBOARD-boost_filter_3p_LCL\Gerber\SUBBOARD-boost_filter_3p_LCL.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for SUBBOARD-boost_filter_3p_LCL\Gerber\SUBBOARD-boost_filter_3p_LCL.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for SUBBOARD-boost_filter_3p_LCL\Gerber\SUBBOARD-boost_filter_3p_LCL.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for SUBBOARD-boost_filter_3p_LCL\Gerber\SUBBOARD-boost_filter_3p_LCL.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for SUBBOARD-boost_filter_3p_LCL\Gerber\SUBBOARD-boost_filter_3p_LCL.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for SUBBOARD-boost_filter_3p_LCL\Gerber\SUBBOARD-boost_filter_3p_LCL.GM2
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for SUBBOARD-boost_filter_3p_LCL\Gerber\SUBBOARD-boost_filter_3p_LCL.GM3
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for SUBBOARD-boost_filter_3p_LCL\Gerber\SUBBOARD-boost_filter_3p_LCL.GM4
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for SUBBOARD-boost_filter_3p_LCL\Gerber\SUBBOARD-boost_filter_3p_LCL.GM5
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for SUBBOARD-boost_filter_3p_LCL\Gerber\SUBBOARD-boost_filter_3p_LCL.GM6
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for SUBBOARD-boost_filter_3p_LCL\Gerber\SUBBOARD-boost_filter_3p_LCL.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for SUBBOARD-boost_filter_3p_LCL\Gerber\SUBBOARD-boost_filter_3p_LCL.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for SUBBOARD-boost_filter_3p_LCL\Gerber\SUBBOARD-boost_filter_3p_LCL.GM16
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for SUBBOARD-boost_filter_3p_LCL\Gerber\SUBBOARD-boost_filter_3p_LCL.GM20
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for SUBBOARD-boost_filter_3p_LCL\Gerber\SUBBOARD-boost_filter_3p_LCL.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for SUBBOARD-boost_filter_3p_LCL\Gerber\SUBBOARD-boost_filter_3p_LCL.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for SUBBOARD-boost_filter_3p_LCL\Gerber\SUBBOARD-boost_filter_3p_LCL.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for SUBBOARD-boost_filter_3p_LCL\Gerber\SUBBOARD-boost_filter_3p_LCL.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for SUBBOARD-boost_filter_3p_LCL\Gerber\SUBBOARD-boost_filter_3p_LCL.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for SUBBOARD-boost_filter_3p_LCL\Gerber\SUBBOARD-boost_filter_3p_LCL.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for SUBBOARD-boost_filter_3p_LCL\NC Drill\SUBBOARD-boost_filter_3p_LCL.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for SUBBOARD-boost_filter_3p_LCL\Gerber\SUBBOARD-boost_filter_3p_LCL.REP
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for SUBBOARD-boost_filter_3p_LCL\Gerber\SUBBOARD-boost_filter_3p_LCL.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for SUBBOARD-boost_filter_3p_LCL\NC Drill\SUBBOARD-boost_filter_3p_LCL.TXT
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
